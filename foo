@@ -1,0 +1,7 @@
+r-USW-SEA2-B15-C-NODE4 NIC.Integrated.1-3-1    Ethernet                = EC:F4:BB:CE:89:AC
+r-USW-SEA2-B15-C-NODE5 NIC.Integrated.1-3-1    Ethernet                = EC:F4:BB:CE:85:F4
+r-USW-SEA2-B15-S-NODE5 NIC.Integrated.1-3-1    Ethernet                = EC:F4:BB:CD:B8:6C
+r-USW-SEA2-B15-S-NODE4 NIC.Integrated.1-3-1    Ethernet                = EC:F4:BB:CE:CF:DC
+r-USW-SEA2-B15-S-NODE3 NIC.Integrated.1-3-1    Ethernet                = EC:F4:BB:CE:18:3C
+r-USW-SEA2-B15-S-NODE2 NIC.Integrated.1-3-1    Ethernet                = EC:F4:BB:CD:9C:B4
+r-USW-SEA2-B15-S-NODE1 NIC.Integrated.1-3-1    Ethernet                = EC:F4:BB:CD:9A:C4
